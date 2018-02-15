@@ -1,5 +1,5 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
-
+//https://blogs.msdn.microsoft.com/tedmalone/2016/04/19/the-iot-journey-getting-started-with-the-raspberry-pi-3/
 using System;
 using Windows.Devices.Gpio;
 using Windows.UI.Xaml;
